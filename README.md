@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamcon)](https://hits.seeyoufarm.com)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jhnam88/)](https://www.facebook.com/jhnam88/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jhnam88/)](https://www.instagram.com/jhnam88/)
-[![Github Followers](https://img.shields.io/github/followers/samchon?color=06d6a0&label=Github%20Followers&style=round-square)](https://github.com/samchon?tab=followers)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jhnam88)](https://www.facebook.com/jhnam88)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jhnam88)](https://www.instagram.com/jhnam88)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jhnam88)](https://www.linkedin.com/in/jhnam88)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=samchon&show_icons=true)
 
