@@ -5,7 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=samchon&row=1&column=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=samchon&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=samchon&show_icons=true&count_private=true&hide_border=true)
 
 <!-- https://simpleicons.org -->
 
