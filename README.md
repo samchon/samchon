@@ -3,9 +3,9 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jhnam88)](https://www.instagram.com/jhnam88)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jhnam88)](https://www.linkedin.com/in/jhnam88)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=samchon&column=4&no-frame=true&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=samchon&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=samchon&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0d1117)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=samchon&show_icons=true&count_private=true&hide_border=true)
 
 <!-- https://simpleicons.org -->
 
