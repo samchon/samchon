@@ -14,6 +14,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
 <!-- ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=fff) -->
 
-I've studied programming for 22 years since 1998. For the long time, I've developed many programs and also have enjoyed lots of chances that can enhance my abilities dramatically. Therefore, I say with confident, "I am one of the best programmers in my home country, the South Korea."
+I've studied programming for 25 years since 1998. For the long time, I've developed many programs and also have enjoyed lots of chances that can enhance my abilities dramatically. Therefore, I say with confident, "I am one of the best programmers in my home country, the South Korea."
 
-In nowadays, I develop open source projects. Working in a company, if I feel a new feature is required or find some ordinary feature is not enough, then I develop an open source component in my leisure time. When such leisure developments are accumulated and they're following a paradigm or pattern, they would be re-generated to a new open source project, as you can see from the below.
+Also, I develop open source projects. Developing a program, if I feel a new feature is required or find some ordinary feature is not enough, then I develop an open source component in my leisure time. When such leisure developments are accumulated and they're following a paradigm or pattern, they would be re-generated to a new open source project, as you can see from the below.
