@@ -2,7 +2,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jhnam88)](https://www.facebook.com/jhnam88)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jhnam88)](https://www.instagram.com/jhnam88)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jhnam88)](https://www.linkedin.com/in/jhnam88)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=round-square&logo=devdotto&logoColor=white)](https://dev.to/samchon)
+[![Dev.to](https://img.shields.io/badge/dev.to-blog-0A0A0A?style=round-square&logo=devdotto&logoColor=white)](https://dev.to/samchon)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=samchon&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
