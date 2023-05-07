@@ -15,6 +15,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
 <!-- ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=fff) -->
 
-I've studied programming for 25 years since 1998. For the long time, I've developed many programs and also have enjoyed lots of chances that can enhance my abilities dramatically. Therefore, I say with confident, "I am one of the best programmers in my home country, the South Korea."
+I have studied programming for 25 years since 1998. During that time, I developed many programs and had many opportunities to improve my skills dramatically. So I confidently say, "I am one of the best programmers in my country, Korea."
 
-Also, I develop open source projects. Developing a program, if I feel a new feature is required or find some ordinary feature is not enough, then I develop an open source component in my leisure time. When such leisure developments are accumulated and they're following a paradigm or pattern, they would be re-generated to a new open source project, as you can see from the below.
+I also develop open source projects. When developing a program, I develop open-source components in my spare time when I feel that I need new features or that the usual features are not good enough. If these leisure developments are cumulative and follow a single paradigm or pattern, they will be re-created as new open-source projects, as seen below.
