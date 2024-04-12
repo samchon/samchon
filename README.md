@@ -15,6 +15,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
 <!-- ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=fff) -->
 
+![03_Linkedin Cover](https://github.com/samchon/samchon/assets/13158709/37201d90-b961-4d6d-a1e4-98158a810a36)
+
 I have studied programming for 25 years since 1998. During that time, I developed many programs and had many opportunities to improve my skills dramatically. So I confidently say, "I am one of the best programmers in my country, Korea."
 
 I also develop open source projects. When developing a program, I develop open-source components in my spare time when I feel that I need new features or that the usual features are not good enough. If these leisure developments are cumulative and follow a single paradigm or pattern, they will be re-created as new open-source projects, as seen below.
