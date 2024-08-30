@@ -1,6 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamcon)](https://hits.seeyoufarm.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jhnam88)](https://www.facebook.com/jhnam88)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jhnam88)](https://www.instagram.com/jhnam88)
+[![Youtube](https://img.shields.io/badge/-Youtube-FA0000?style=round-square&logo=youtube&logoColor=white)](https://www.youtube.com/@samchon.github)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jhnam88)](https://www.linkedin.com/in/jhnam88)
 [![Dev.to](https://img.shields.io/badge/dev.to-blog-0A0A0A?style=round-square&logo=devdotto&logoColor=white)](https://dev.to/samchon)
 
