@@ -1,13 +1,14 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamcon)](https://hits.seeyoufarm.com)
+[![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fsamchon?color=blue&label=Hits&size=small)](https://myhits.vercel.app)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jhnam88)](https://www.facebook.com/jhnam88)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jhnam88)](https://www.instagram.com/jhnam88)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SamchonGithub/)](https://twitter.com/SamchonGithub/)
 [![Youtube](https://img.shields.io/badge/-Youtube-FA0000?style=round-square&logo=youtube&logoColor=white)](https://www.youtube.com/@samchon.github)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jhnam88)](https://www.linkedin.com/in/jhnam88)
 [![Dev.to](https://img.shields.io/badge/dev.to-blog-0A0A0A?style=round-square&logo=devdotto&logoColor=white)](https://dev.to/samchon)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=samchon&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=samchon&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=samchon&show_icons=true&count_private=true&hide_border=true)
+![Github Stats](https://github-readme-stats-fast.vercel.app/api?username=samchon&show_icons=true&count_private=true&hide_border=true)
 
 <!-- https://simpleicons.org -->
 
