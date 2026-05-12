@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jhnam88)](https://www.linkedin.com/in/jhnam88)
 [![Dev.to](https://img.shields.io/badge/dev.to-blog-0A0A0A?style=round-square&logo=devdotto&logoColor=white)](https://dev.to/samchon)
 
-[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=samchon&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.benkou.dev/?username=samchon&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Github Stats](https://github-readme-stats-fast.vercel.app/api?username=samchon&show_icons=true&count_private=true&hide_border=true)
 
